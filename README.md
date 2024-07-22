@@ -1,15 +1,21 @@
 # User
-> Auth
-> Register
-> Get profile
 
+```
+Auth
+Register
+Get profile
+
+```
 # Post
-> Post post
-> Get post
-> Delete post
-> Put post
 
-### variables (env)
+```
+Post post
+Get post
+Delete post
+Put post
+
+```
+# Variables (env)
 
 ```
 NODE_ENV
